@@ -1,0 +1,8 @@
+SynonymIntent it means {synonym}
+SynonymIntent it's like {synonym}
+SynonymIntent it's a synonym of {synonym}
+SynonymIntent it's a synonym for {synonym}
+SynonymIntent it stands for {synonym}
+SynonymIntent it's similar to {synonym}
+DescriptionIntent it's {description}
+DescriptionIntent it is {description}

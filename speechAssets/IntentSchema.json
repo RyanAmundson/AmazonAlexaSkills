@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "intent": "SynonymIntent",
+      "slots": [
+      {
+        "name" : "synonym",
+        "type" : "custom"
+      }
+     ]
+    },
+    {
+      "intent": "DescriptionIntent",
+      "slots": [
+      {
+        "name" : "description",
+        "type" : "custom"
+      },
+      {
+        "name" : "seconddescription",
+        "type" : "custom"
+      }
+     ]
+    },
+    {
+      "intent": "IntroIntent"
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
